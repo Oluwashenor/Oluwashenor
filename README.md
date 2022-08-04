@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Oluwashenor
+- 👋 Hi, I’m @Adesina
 - 👀 I’m interested in Computers
-- 🌱 I’m currently learning Computers
-- 💞️ I’m looking to collaborate on Computing
-- 📫 How to reach me ...
+- 🌱 I’m currently learning how to Code
+- 💞️ I’m looking to collaborate on Anything Regarding Computing
+- 📫 You can reach me on adeshiname@gmail.com
 
 <!---
 Oluwashenor/Oluwashenor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
