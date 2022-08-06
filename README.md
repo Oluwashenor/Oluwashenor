@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adesina
-- 👀 I’m interested in Computers
-- 🌱 I’m currently learning how to Code
-- 💞️ I’m looking to collaborate on Anything Regarding Computing
+- 👀 I’m interested in Coding💻 & Computers
+- 🌱 I’m currently learning how to Code(Always Learning😂)
+- 💞️ I’m looking to collaborate on Anything Regarding Coding</>
 - 📫 You can reach me on adeshiname@gmail.com
 
 <!---
