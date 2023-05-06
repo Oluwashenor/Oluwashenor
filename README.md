@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on something secret<br>👯 I’m looking to collaborate on Anything Coding<br>🌱 I’m currently learning how to code<br>💬 Ask me about C#<br>⚡ Fun fact - I love me
+🔭 I’m currently working on something secret<br>👯 I’m looking to collaborate on Anything Coding<br>🌱 I’m currently learning how to code<br>⚡ Fun fact - 01001001 00100000 01001100 01101111 01110110 01100101 00100000 01000011 01101111 01100100 01101001 01101110 01100111
 
 
 ## 🌐 Socials:
